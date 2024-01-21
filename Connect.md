@@ -6,4 +6,6 @@
 3:- Set the branch for your repo
 4:- Set the origin of your github repo
 5:- push the file into github
-6:- go to source control inside right side of your vs code
+6:- go to source control inside left side of your vs code
+7:- stage the changes
+8:- write commit message
