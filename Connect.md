@@ -9,3 +9,4 @@
 6:- go to source control inside left side of your vs code
 7:- stage the changes
 8:- write commit message
+9:- now push the file or folder
