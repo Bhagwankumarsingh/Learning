@@ -10,3 +10,4 @@
 7:- stage the changes
 8:- write commit message
 9:- now push the file or folder
+10 :- now it is ready to go
